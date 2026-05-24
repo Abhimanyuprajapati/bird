@@ -4,7 +4,7 @@ import bird1 from "../assets/bird1.jpg";
 import bird2 from "../assets/bird2.jpg";
 import imagegroup from "../assets/imagegroup.jpg";
 import birdview from "../assets/birdview.jpg";
-import mask from "../assets/Mask.png";
+import mask from "../assets/mask.png";
 import maskbird from "../assets/maskbird.png";
 import { UploadButton } from "./UploadButton";
 import { Header } from "./Header";
